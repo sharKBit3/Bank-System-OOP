@@ -18,6 +18,7 @@
    - Transactions
    - Manage Users
    - Registers
+   - Currency Exchange
    - Logout
 3. Select an option by entering the corresponding number.
 4. Follow the on-screen instructions to perform the desired actions.
@@ -32,5 +33,6 @@ The Bank Management System includes the following test cases:
 3. Verify the accuracy of client account balance calculations and transactions.
 4. Ensure the user management features (add, update, delete, and find users) work as expected.
 5. Test the access control system to ensure users can only perform actions based on their permissions.
+6. Ensure Currency-Exchange features (find, update, Calculator) work as supposed.  
 
 To run the test cases, compile the source files and execute the compiled program.
